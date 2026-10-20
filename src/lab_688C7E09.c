@@ -3,22 +3,22 @@
 
 int unsiged_char_max()
 {
-    // TODO: write your code here
+    return UCHAR_MAX
 }
 
 int signed_char_min()
 {
-    // TODO: write your code here
+    return SCHAR_MIN
 }
 
 int signed_char_max()
 {
-    // TODO: write your code here
+    return SCHAR_MAX
 }
 
 int unsigned_int_max()
 {
-    // TODO: write your code here
+    return 
 }
 
 int signed_int_min()
